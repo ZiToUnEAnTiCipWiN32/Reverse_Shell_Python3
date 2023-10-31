@@ -49,6 +49,6 @@ Ce script a pour but de déobfusquer un script modèle obfusqué. Il restaure le
 
 Ces scripts sont destinés à des fins éducatives ou de recherche pour démontrer les concepts d'obfuscation et de déobfuscation de scripts. L'utilisation inappropriée ou non autorisée peut être illégale. Assurez-vous d'avoir l'autorisation adéquate avant d'utiliser ces scripts.
 
-![POC](Screenshot_1.png)
+![POC](poc.png)
 
 [POC](https://youtu.be/_92vQwMH-Ak)
